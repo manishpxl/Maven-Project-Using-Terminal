@@ -92,6 +92,5 @@ And calls a simple helper method.
 ---
 
 ## 📝 Credits
-
-Created by [manishpxl](https://github.com/manishpxl) as a simple Maven demo using terminal.
 ```
+Created by [manishpxl](https://github.com/manishpxl) as a simple Maven demo using terminal.
