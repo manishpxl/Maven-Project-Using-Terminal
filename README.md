@@ -43,12 +43,13 @@ You get a ready-to-run Java skeleton in `myapp/`! 🎉
 ---
 
 ## 🏗️ Project Structure
+
 myapp/
 ├── pom.xml
 └── src/
-├── main/java/com/my/app/App.java
-├── main/java/com/my/app/helper/Helper.java
-└── test/java/com/my/app/AppTest.java
+    ├── main/java/com/my/app/App.java
+    ├── main/java/com/my/app/helper/Helper.java
+    └── test/java/com/my/app/AppTest.java
 
 
 ---
